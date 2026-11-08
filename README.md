@@ -1,0 +1,2 @@
+# scamsheid
+prevention of scam 
